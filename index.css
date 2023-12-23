@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background: #111827;
+}
+
+.container {
+    margin:  auto;
+    height: 550px;
+    width: 550px;
+    border: 1px solid #9CA3AF;
+    background: #9CA3AF;
+    padding: 115px 144px 355px 52px;
+}
+
+h1 {
+    color: whitesmoke;
+    
+}
+
+p {
+    margin-bottom: 0;
+    color: #111827;
+}
+
+span {
+    display: block;
+    color: #6B7280
+}
+
+#gen-btn {
+    margin-top: 51px;
+    background: #6B7280;
+    border: none;
+    color: whitesmoke;
+    height: 42px;
+    width: 191px;
+    border-radius: 6px;
+}
+
+.pwd-btn {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+    margin-bottom: 0;
+    border-top: 2px solid #2F3E53;
+    width: 446px;
+}
+
+#pwd1-el, #pwd2-el {
+    margin-top: 35px;
+    width: 211px;
+    height: 39px;
+    border: none;
+    border-radius: 6px;
+    background: #6B7280;
+    color: whitesmoke;
+}
